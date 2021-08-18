@@ -24,7 +24,7 @@
 1. 토픽 ‘faceRecog/notify/door1’을 subscribe
 2. command 에 담긴 메세지에 따라 unlock 또는 unauthentication 출력
 
-## 3. IoT Ruile (SQL SELECT Clause)
+## 3. IoT Rule (SQL SELECT Clause)
 
 ## 4. Face Recognition Lambda Service
 
